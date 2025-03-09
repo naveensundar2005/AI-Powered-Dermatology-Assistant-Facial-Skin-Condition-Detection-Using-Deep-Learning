@@ -7,7 +7,7 @@ Using **Convolutional Neural Networks (CNNs)**, the model analyzes skin conditio
 
 ---
 
-##  \Features  
+##  Features  
  **Deep Learning-Based Skin Disease Classification**  
  **Pre-trained CNN Model for Image Recognition**  
  **User-Friendly Web Interface for Image Uploads**  
