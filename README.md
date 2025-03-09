@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AI-Powered-Dermatology-Assistant-Facial-Skin-Condition-Detection-Using-Deep-Learning
-=======
 # 🧑‍⚕️ AI-Powered Dermatology Assistant  
 ### 🔬 Deep Learning-Based Skin Disease Detection  
 
@@ -27,10 +24,6 @@ Using **Convolutional Neural Networks (CNNs)**, the model analyzes skin conditio
 - **Dataset:** Dermatology image dataset  
 - **Deployment:** Flask API, Cloud hosting (optional)  
 
----
-
-## 📂 Project Structure  
-
 
 ---
 
@@ -53,5 +46,18 @@ Using **Convolutional Neural Networks (CNNs)**, the model analyzes skin conditio
    - Users can interact with the assistant via a **web application**.  
 
 ---
- 
->>>>>>> cc03610 (instructions are loaded)
+
+## 📜 License  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+### **💬 Contributing & Feedback**  
+👥 **Want to contribute?** Feel free to fork the repository and create a pull request!  
+📩 **Feedback/Suggestions?** Open an issue or contact me.  
+
+---
+
+### **⭐ Show Some Love!**  
+If you like this project, consider giving it a ⭐ on GitHub! 😊  
+
